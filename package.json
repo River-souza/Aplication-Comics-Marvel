@@ -1,4 +1,4 @@
- {
+{
   "homepage": "https://river-souza.github.io/Aplication-Comics-Marvel",
   "name": "Aplication-Comics-Marvel",
   "version": "0.1.0",
@@ -12,14 +12,13 @@
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.1",
-    "react-st-modal": "^1.1.3",
     "redux": "^4.0.1",
     "redux-devtools-extension": "^2.13.5",
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
-    "predeploy": "npm rum build",
-    "deploy": "gh-pages -d build", 
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

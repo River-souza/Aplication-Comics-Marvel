@@ -7,7 +7,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { clearHeroes, findHeroes, findComics } from './actions';
-import FooterHome from './components/footer';
 import SearchChar from './components/search';
 import ComicThumbnail from '../../components/comicThumbnail';
 import Button from '../../components/button';

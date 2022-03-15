@@ -1,7 +1,7 @@
 ## Name do Projeto : Aplication Comics Marvel
 ## Created on : 01/04/2021.
 ## Change on : 04/05/2021.
-## Author     : Michael Dydean
+## Author     : Michael D.
 
 ## Sobre o Projeto
 O Web Site possibilita o acessante pesquisar um gibi de super-herói, tendo assim acesso às versões referentes retornadas pelo fornecedor original Marvel.
